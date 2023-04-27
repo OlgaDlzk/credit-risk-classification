@@ -10,7 +10,7 @@ We divided our dataset to 2 subsets: training set and testing set. Training set 
 
 As a part of our project, we used LogisticRegression method as well as resampling method. 
 
-Logistic Regression methos is widely used algorithm got binary classification tasks. Logistic Regression models the relationship between a set of input variables and a binary target variable by estimating the probabilities of the target variable belonging to each class.
+Logistic Regression methos is widely used algorithm got binary classification tasks. Logistic Regression models the relationship between a set of input variables and a binary target variable by estimating the probabilities of the target variable belonging to each class.<br>
 Resampling is a technique in machine learning and statistics that involves creating new datasets by sampling from an existing dataset. Random resampling provides a technique for rebalancing the class distribution for an imbalanced dataset. For our dataset we used Random Oversampling: Randomly duplicate examples in the minority class, providing more balanced class distribution. 
 
 <hr>
@@ -27,7 +27,7 @@ Resampling is a technique in machine learning and statistics that involves creat
 
 
 <b>Machine Learning Model 2:</b>
-  The logistic regression model has an overall accuracy rating of 99,52%, which is higher than the previous model. 
+  The logistic regression model with resampled data has an overall accuracy rating of 99,52%, which is higher than the previous model. 
  - Healthy Loan:
       Precision and recall both equal 1.00 meaning that the model identified all the possible healthy loans and out of all identified healthy loans 100% was correct. 
  - High-Risk Loan: 
