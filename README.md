@@ -17,7 +17,7 @@ Resampling is a technique in machine learning and statistics that involves creat
 
 ## Results
 
-* <b>Machine Learning Model 1:<b>
+* <b>Machine Learning Model 1:</b>
   The logistic regression model has an overall accuracy rating of 99,24%
 Healthy Loan:
 - Precision and recall both equal 1.00 meaning that the model identified all the possible healthy loans and out of all identified healthy loans 100% was correct. 
