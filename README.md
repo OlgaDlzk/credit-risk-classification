@@ -4,9 +4,9 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis is to build a model that can identify the creditworthiness of loan borrowers, using a dataset of historical lending activity from a peer-to-peer lending services company. The dataset contained information on loan size, interest rate, borrower incom, debt to income ratio, number of accounts, derogatory marks, total debt, loan status.<br>
+The purpose of this analysis is to build a model that can identify the creditworthiness of loan borrowers, using a dataset of historical lending activity from a peer-to-peer lending services company. The dataset contained information on loan size, interest rate, borrower income, debt to income ratio, number of accounts, derogatory marks, total debt, loan status.<br>
 
-We divided our dataset to 2 subsets: training set and testing set. Training set is used to train the machine learning model. The testing set is used to introduced unknown data to the model and get the predictions for it. After we got the predictions, we calculated the accuracy rating, confusion matrix, and classification report to analyse the effectiveness of each particular model. 
+We divided our dataset to 2 subsets: training set and testing set. Training set is used to train the machine learning model. The testing set is used to introduced unknown data to the model and get the predictions for it. After we got the predictions, we calculated the accuracy rating, confusion matrix, and classification report to analyze the effectiveness of each particular model. 
 
 As a part of our project, we used LogisticRegression method as well as resampling method. 
 
